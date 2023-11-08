@@ -1,0 +1,12 @@
+{
+  "name": "nx-rust",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "17.0.3",
+    "nx": "17.0.3"
+  }
+}
